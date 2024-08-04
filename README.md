@@ -6,7 +6,7 @@ Deletes Suo File For Safety Reasons
 Make Sure To Star!
 ```
 ## Demonstration
-https://github.com/user-attachments/assets/c594ddfc-29e5-4015-9bbb-28540e8553ef
+https://github.com/user-attachments/assets/79aba4e6-340a-40b9-ab9d-5be52192f3bc
 ## Disclaimer
 ```
 The information provided in or through this Website is for educational and informational purposes only and solely as a self-help tool for your own use.
